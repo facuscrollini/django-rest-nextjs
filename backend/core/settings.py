@@ -169,4 +169,4 @@ CACHES = {
     }
 }
 
-CHANNELS_ALLOWED_ORIGIN = "http://localhost:3000"
+CHANNELS_ALLOWED_ORIGIN = "http://localhost:8000"
